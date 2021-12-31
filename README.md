@@ -1,4 +1,4 @@
-Randomizer for Pokémon data in Gates to Infinity that I stopped working on in May 2020. Randomizes learnable TMs, learnable moves by level up, types, abilities, evolutions and movement permissions. Input file is pokemon/pokemon_data_info.bin from the romfs of the game.
+Randomizer for Pokémon data in [Pokémon Mystery Dungeon: Gates to Infinity](https://mysterydungeonwiki.com/wiki/Gates:Pok%C3%A9mon_Mystery_Dungeon:_Gates_to_Infinity) that I stopped working on in May 2020. Randomizes learnable TMs, learnable moves by level up, types, abilities, evolutions and movement permissions. Input file is pokemon/pokemon_data_info.bin from the romfs of the game.
 
 ![Cinccino Draco Meteor](https://user-images.githubusercontent.com/50384712/147826530-ded5cd9a-513e-470c-a2f1-b492966e1107.png)
 ![Eevee can evolve into Amoonguss](https://user-images.githubusercontent.com/50384712/147826525-17569f71-128b-4901-9b50-12aa07bf5027.png)
